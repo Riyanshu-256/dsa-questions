@@ -1,5 +1,8 @@
-<<<<<<< HEAD
-**🏆 SYLLABUS-SPECIFIC 21 FILES COMPLETE! 880 QUESTIONS ✓**
-=======
 # dsa-questions
->>>>>>> 85002494807a4ba42e445ca6507f30a2e887eaec
+
+🏆 SYLLABUS-SPECIFIC DSA PRACTICE  
+📂 21 Topic-Wise Files  
+✅ 880+ Questions
+
+This repository contains structured DSA questions
+organized topic-wise for consistent practice.
