@@ -48,34 +48,39 @@ This repository contains a carefully curated collection of DSA problems organize
 
 ## 🗂️ Repository Structure
 
+```
 DSA-QUESTIONS/
 ├── dsa-questions/
-│ ├── P00_allQuestions.md
-│ ├── P01_javaBasics.md
-│ ├── P04_recursion.md
-│ ├── P05_arrays.md
-│ ├── P06_searching.md
-│ ├── P07_sorting.md
-│ ├── P08_matrix.md
-│ ├── P09_hashing.md
-│ ├── P10_strings.md
-│ ├── P11_linkedList.md
-│ ├── P12_stacks.md
-│ ├── P13_queue.md
-│ ├── P14_dequeue.md
-│ ├── P15_tree.md
-│ ├── P16_binarySearch.md
-│ ├── P17_heap.md
-│ ├── P18_graphs.md
-│ ├── P19_greedy.md
-│ ├── P20_backtracking.md
-│ ├── P21_dp.md
-│ ├── P22_trie.md
-│ ├── P23_segmentTree.md
-│ ├── P24_disjointSets.md
-│ └── P25_finalQuestions.md
+│   ├── P00_allQuestions.md
+│   ├── P01_javaBasics.md
+│   ├── P04_recursion.md
+│   ├── P05_arrays.md
+│   ├── P06_searching.md
+│   ├── P07_sorting.md
+│   ├── P08_matrix.md
+│   ├── P09_hashing.md
+│   ├── P10_strings.md
+│   ├── P11_linkedList.md
+│   ├── P12_stacks.md
+│   ├── P13_queue.md
+│   ├── P14_dequeue.md
+│   ├── P15_tree.md
+│   ├── P16_binarySearch.md
+│   ├── P17_heap.md
+│   ├── P18_graphs.md
+│   ├── P19_greedy.md
+│   ├── P20_backtracking.md
+│   ├── P21_dp.md
+│   ├── P22_trie.md
+│   ├── P23_segmentTree.md
+│   ├── P24_disjointSets.md
+│   └── P25_finalQuestions.md
 │
 └── README.md
+
+```
+
+---
 
 ## 🛠️ How to Use
 
