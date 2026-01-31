@@ -4,13 +4,13 @@
 ## Easy (18 Problems)
 | # | Problem | Platform | Link | Pattern | Difficulty |
 |---|---------|----------|------|---------|------------|
-|1|Bubble Sort|GFG|https://practice.geeksforgeeks.org/problems/bubble-sort/1|Bubble Sort|Easy|
-|2|Selection Sort|GFG|https://practice.geeksforgeeks.org/problems/selection-sort/1|Selection Sort|Easy|
-|3|Insertion Sort|GFG|https://practice.geeksforgeeks.org/problems/insertion-sort/1|Insertion Sort|Easy|
-|4|Intersection of 2 Sorted Arrays|GFG|https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-arrays/1|Two Pointers|Easy|
-|5|Union of 2 Sorted Arrays|GFG|https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1|Two Pointers|Easy|
-|6|Sort an Array of 0s, 1s, 2s|LC|https://leetcode.com/problems/sort-colors/|Dutch National|Easy|
-|7|Check if Array is Sorted|GFG|https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1|Scanning|Easy|
+|1 ✓|Bubble Sort|GFG|https://practice.geeksforgeeks.org/problems/bubble-sort/1|Bubble Sort|Easy|
+|2 ✓|Selection Sort|GFG|https://practice.geeksforgeeks.org/problems/selection-sort/1|Selection Sort|Easy|
+|3 ✓|Insertion Sort|GFG|https://practice.geeksforgeeks.org/problems/insertion-sort/1|Insertion Sort|Easy|
+|4 ✓|Intersection of 2 Sorted Arrays|GFG|https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-arrays/1|Two Pointers|Easy|
+|5 ✓|Union of 2 Sorted Arrays|GFG|https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1|Two Pointers|Easy|
+|6 ✓|Sort an Array of 0s, 1s, 2s|LC|https://leetcode.com/problems/sort-colors/|Dutch National|Easy|
+|7 ✓|Check if Array is Sorted|GFG|https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1|Scanning|Easy|
 |8|Minimum Distance Between Largest and Smallest|GFG|https://practice.geeksforgeeks.org/problems/minimum-distance-between-largest-and-smallest-in-three-moves/1|Sorting|Easy|
 |9|Sort Array by First and Last Digit|GFG|https://practice.geeksforgeeks.org/problems/sort-array-by-first-and-last-digit/1|Custom Sort|Easy|
 |10|Sort Binary Array|GFG|https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/1|Partitioning|Easy|
