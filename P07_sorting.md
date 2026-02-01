@@ -13,13 +13,13 @@
 |7 ✓|Check if Array is Sorted|GFG|https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1|Scanning|Easy|
 |8|Minimum Distance Between Largest and Smallest|GFG|https://practice.geeksforgeeks.org/problems/minimum-distance-between-largest-and-smallest-in-three-moves/1|Sorting|Easy|
 |9|Sort Array by First and Last Digit|GFG|https://practice.geeksforgeeks.org/problems/sort-array-by-first-and-last-digit/1|Custom Sort|Easy|
-|10|Sort Binary Array|GFG|https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/1|Partitioning|Easy|
+|10 ✓|Sort Binary Array|GFG|https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/1|Partitioning|Easy|
 |11|Relative Sorting|GFG|https://practice.geeksforgeeks.org/problems/relative-sorting/1|Custom Sort|Easy|
 |12|Sort Elements by Frequency|GFG|https://practice.geeksforgeeks.org/problems/sort-elements-by-frequency/1|Hashing+Sort|Easy|
 |13|Merge Two Sorted Arrays|GFG|https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1|Merge|Easy|
 |14|Kth Smallest Element|GFG|https://practice.geeksforgeeks.org/problems/kth-smallest-element/1|QuickSelect|Easy|
 |15|Chocolate Distribution|GFG|https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0|Sorting|Easy|
-|16|Sort Array with 3 Types|GFG|https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/1|Dutch National|Easy|
+|16 ✓|Sort Array with 3 Types|GFG|https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/1|Dutch National|Easy|
 |17|Next Permutation|LC|https://leetcode.com/problems/next-permutation/|Permutation|Easy|
 |18|Pascal's Triangle|LC|https://leetcode.com/problems/pascals-triangle/|Sorting Pattern|Easy|
 
