@@ -14,7 +14,7 @@
 |8 ✗|Minimum Distance Between Largest and Smallest|GFG|https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/|Sorting|Easy|
 |9 ✓|Sort Array by First and Last Digit|GFG|https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/|Custom Sort|Easy|
 |10 ✓|Sort Binary Array|GFG|https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/1|Partitioning|Easy|
-|11|Relative Sorting|GFG|https://practice.geeksforgeeks.org/problems/relative-sorting/1|Custom Sort|Easy|
+|11 ✗|Relative Sorting|GFG|https://practice.geeksforgeeks.org/problems/relative-sorting/1|Custom Sort|Easy|
 |12|Sort Elements by Frequency|GFG|https://practice.geeksforgeeks.org/problems/sort-elements-by-frequency/1|Hashing+Sort|Easy|
 |13 ✓|Merge Two Sorted Arrays|GFG|https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1|Merge|Easy|
 |14 ✗|Kth Smallest Element|GFG|https://practice.geeksforgeeks.org/problems/kth-smallest-element/1|QuickSelect|Easy|
