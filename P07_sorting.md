@@ -21,7 +21,7 @@
 |15 ✓|Chocolate Distribution|GFG|https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0|Sorting|Easy|
 |16 ✓|Sort Array with 3 Types|GFG|https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/1|Dutch National|Easy|
 |17 ✓|Next Permutation|LC|https://leetcode.com/problems/next-permutation/|Permutation|Easy|
-|18|Pascal's Triangle|LC|https://leetcode.com/problems/pascals-triangle/|Sorting Pattern|Easy|
+|18 ✓|Pascal's Triangle|LC|https://leetcode.com/problems/pascals-triangle/|Sorting Pattern|Easy|
 
 ## Medium (22 Problems)
 | # | Problem | Platform | Link | Pattern | Difficulty |
