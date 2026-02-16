@@ -34,7 +34,7 @@
 |24|Meeting Rooms II|LC|https://leetcode.com/problems/meeting-rooms-ii/|Priority Queue|Medium|
 |25|Sort List|LC|https://leetcode.com/problems/sort-list/|Merge Sort|Medium|
 |26 ✓|Wiggle Sort II|LC|https://leetcode.com/problems/wiggle-sort-ii/|Two Pointers|Medium|
-|27|Find K Closest Elements|LC|https://leetcode.com/problems/find-k-closest-elements/|Binary Search|Medium|
+|27 ✗|Find K Closest Elements|LC|https://leetcode.com/problems/find-k-closest-elements/|Binary Search|Medium|
 |28|Sort Characters by Frequency|LC|https://leetcode.com/problems/sort-characters-by-frequency/|Bucket Sort|Medium|
 |29|Maximum Gap|LC|https://leetcode.com/problems/maximum-gap/|Bucket Sort|Medium|
 |30|Reorder Data in Log Files|LC|https://leetcode.com/problems/reorder-data-in-log-files/|Custom Sort|Medium|
