@@ -37,7 +37,7 @@
 |27 ✗|Find K Closest Elements|LC|https://leetcode.com/problems/find-k-closest-elements/|Binary Search|Medium|
 |28 ✓|Sort Characters by Frequency|LC|https://leetcode.com/problems/sort-characters-by-frequency/|Bucket Sort|Medium|
 |29 ✗|Maximum Gap|LC|https://leetcode.com/problems/maximum-gap/|Bucket Sort|Medium|
-|30|Reorder Data in Log Files|LC|https://leetcode.com/problems/reorder-data-in-log-files/|Custom Sort|Medium|
+|30 ✓|Reorder Data in Log Files|LC|https://leetcode.com/problems/reorder-data-in-log-files/|Custom Sort|Medium|
 |31|Queue Reconstruction by Height|LC|https://leetcode.com/problems/queue-reconstruction-by-height/|Greedy Sort|Medium|
 |32|Largest Number|LC|https://leetcode.com/problems/largest-number/|Custom Sort|Medium|
 |33|Sort Array by Parity II|LC|https://leetcode.com/problems/sort-array-by-parity-ii/|Two Pointers|Medium|
