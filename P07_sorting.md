@@ -47,7 +47,7 @@
 |37|Non-overlapping Intervals|LC|https://leetcode.com/problems/non-overlapping-intervals/|Greedy Sort|Medium|
 |38|Task Scheduler|LC|https://leetcode.com/problems/task-scheduler/|Priority Queue|Medium|
 |39|Reorganize String|LC|https://leetcode.com/problems/reorganize-string/|Priority Queue|Medium|
-|40|Sort Array by Parity|LC|https://leetcode.com/problems/sort-array-by-parity/|Two Pointers|Medium|
+|40 ✓|Sort Array by Parity|LC|https://leetcode.com/problems/sort-array-by-parity/|Two Pointers|Medium|
 
 ## Hard (5 Problems)
 | # | Problem | Platform | Link | Pattern | Difficulty |
