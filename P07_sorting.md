@@ -40,7 +40,7 @@
 |30 ✓|Reorder Data in Log Files|LC|https://leetcode.com/problems/reorder-data-in-log-files/|Custom Sort|Medium|
 |31|Queue Reconstruction by Height|LC|https://leetcode.com/problems/queue-reconstruction-by-height/|Greedy Sort|Medium|
 |32 ✓|Largest Number|LC|https://leetcode.com/problems/largest-number/|Custom Sort|Medium|
-|33|Sort Array by Parity II|LC|https://leetcode.com/problems/sort-array-by-parity-ii/|Two Pointers|Medium|
+|33 ✓|Sort Array by Parity II|LC|https://leetcode.com/problems/sort-array-by-parity-ii/|Two Pointers|Medium|
 |34|Pancake Sorting|LC|https://leetcode.com/problems/pancake-sorting/|Greedy|Medium|
 |35|Valid Anagram|LC|https://leetcode.com/problems/valid-anagram/|Sorting|Medium|
 |36|Increasing Triplet Subsequence|LC|https://leetcode.com/problems/increasing-triplet-subsequence/|Sorting|Medium|
