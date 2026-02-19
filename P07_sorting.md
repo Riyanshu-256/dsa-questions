@@ -43,7 +43,7 @@
 |33 ✓|Sort Array by Parity II|LC|https://leetcode.com/problems/sort-array-by-parity-ii/|Two Pointers|Medium|
 |34|Pancake Sorting|LC|https://leetcode.com/problems/pancake-sorting/|Greedy|Medium|
 |35 ✓|Valid Anagram|LC|https://leetcode.com/problems/valid-anagram/|Sorting|Medium|
-|36|Increasing Triplet Subsequence|LC|https://leetcode.com/problems/increasing-triplet-subsequence/|Sorting|Medium|
+|36 ✓|Increasing Triplet Subsequence|LC|https://leetcode.com/problems/increasing-triplet-subsequence/|Sorting|Medium|
 |37|Non-overlapping Intervals|LC|https://leetcode.com/problems/non-overlapping-intervals/|Greedy Sort|Medium|
 |38|Task Scheduler|LC|https://leetcode.com/problems/task-scheduler/|Priority Queue|Medium|
 |39|Reorganize String|LC|https://leetcode.com/problems/reorganize-string/|Priority Queue|Medium|
