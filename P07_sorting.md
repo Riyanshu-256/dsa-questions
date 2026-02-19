@@ -44,7 +44,7 @@
 |34|Pancake Sorting|LC|https://leetcode.com/problems/pancake-sorting/|Greedy|Medium|
 |35 ✓|Valid Anagram|LC|https://leetcode.com/problems/valid-anagram/|Sorting|Medium|
 |36 ✓|Increasing Triplet Subsequence|LC|https://leetcode.com/problems/increasing-triplet-subsequence/|Sorting|Medium|
-|37|Non-overlapping Intervals|LC|https://leetcode.com/problems/non-overlapping-intervals/|Greedy Sort|Medium|
+|37 ✓|Non-overlapping Intervals|LC|https://leetcode.com/problems/non-overlapping-intervals/|Greedy Sort|Medium|
 |38|Task Scheduler|LC|https://leetcode.com/problems/task-scheduler/|Priority Queue|Medium|
 |39|Reorganize String|LC|https://leetcode.com/problems/reorganize-string/|Priority Queue|Medium|
 |40 ✓|Sort Array by Parity|LC|https://leetcode.com/problems/sort-array-by-parity/|Two Pointers|Medium|
