@@ -10,7 +10,7 @@
 |4 ✓|Spiral Traversal|GFG|https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1|Spiral|Easy|
 |5 ✓|Boundary Traversal|GFG|https://practice.geeksforgeeks.org/problems/boundary-traversal-of-matrix/1|Boundary|Easy|
 |6 ✓|Matrix Diagonal Sum|LC|https://leetcode.com/problems/matrix-diagonal-sum/|Diagonal|Easy|
-|7|Find Element in Sorted Matrix|LC|https://leetcode.com/problems/search-a-2d-matrix/|Binary Search|Easy|
+|7 ✓|Find Element in Sorted Matrix|LC|https://leetcode.com/problems/search-a-2d-matrix/|Binary Search|Easy|
 |8|Valid Sudoku|LC|https://leetcode.com/problems/valid-sudoku/|HashSet|Easy|
 |9|Range Sum Query 2D|LC|https://leetcode.com/problems/range-sum-query-2d-immutable/|Prefix Sum|Easy|
 |10|Toeplitz Matrix|LC|https://leetcode.com/problems/toeplitz-matrix/|Diagonal|Easy|
