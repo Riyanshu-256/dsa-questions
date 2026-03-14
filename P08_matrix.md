@@ -6,7 +6,7 @@
 |---|---------|----------|------|---------|------------|
 |1 ✓|Print Matrix in Snake Pattern|GFG|https://practice.geeksforgeeks.org/problems/print-matrix-in-snake-pattern-1587115621/1|Traversal|Easy|
 |2 ✓|Transpose of Matrix|GFG|https://practice.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1|Inplace|Easy|
-|3|Rotate Matrix by 90|GFG|https://practice.geeksforgeeks.org/problems/rotate-a-2d-array-without-using-extra-space/1|Rotation|Easy|
+|3 ✓|Rotate Matrix by 90|GFG|https://practice.geeksforgeeks.org/problems/rotate-a-2d-array-without-using-extra-space/1|Rotation|Easy|
 |4 ✓|Spiral Traversal|GFG|https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1|Spiral|Easy|
 |5 ✓|Boundary Traversal|GFG|https://practice.geeksforgeeks.org/problems/boundary-traversal-of-matrix/1|Boundary|Easy|
 |6 ✓|Matrix Diagonal Sum|LC|https://leetcode.com/problems/matrix-diagonal-sum/|Diagonal|Easy|
