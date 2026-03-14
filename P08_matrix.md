@@ -23,7 +23,7 @@
 |13|Matrix Multiplication|GFG|https://practice.geeksforgeeks.org/problems/matrix-multiplication/1|Matrix Mult|Medium|
 |14|Search in Row-wise Column-wise Sorted|GFG|https://practice.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1|Staircase|Medium|
 |15|Rotate Image|LC|https://leetcode.com/problems/rotate-image/|Inplace Rotation|Medium|
-|16|Spiral Matrix|LC|https://leetcode.com/problems/spiral-matrix/|Spiral|Medium|
+|16 ✓|Spiral Matrix|LC|https://leetcode.com/problems/spiral-matrix/|Spiral|Medium|
 |17|Spiral Matrix II|LC|https://leetcode.com/problems/generate-matrix-spirally/|Spiral|Medium|
 |18|Set Matrix Zeroes|LC|https://leetcode.com/problems/set-matrix-zeroes/|Inplace|Medium|
 |19|Word Search|LC|https://leetcode.com/problems/word-search/|DFS|Medium|
