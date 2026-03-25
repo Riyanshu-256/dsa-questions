@@ -14,7 +14,7 @@
 |8|Valid Sudoku|LC|https://leetcode.com/problems/valid-sudoku/|HashSet|Easy|
 |9|Range Sum Query 2D|LC|https://leetcode.com/problems/range-sum-query-2d-immutable/|Prefix Sum|Easy|
 |10 ✓|Toeplitz Matrix|LC|https://leetcode.com/problems/toeplitz-matrix/|Diagonal|Easy|
-|11|Matrix Cells in Distance Order|LC|https://leetcode.com/problems/matrix-cells-in-distance-order/|Sorting|Easy|
+|11 ✓|Matrix Cells in Distance Order|LC|https://leetcode.com/problems/matrix-cells-in-distance-order/|Sorting|Easy|
 |12|Lucky Numbers in Matrix|LC|https://leetcode.com/problems/lucky-numbers-in-matrix/|Scanning|Easy|
 
 ## Medium (15 Problems)
